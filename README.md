@@ -8,11 +8,13 @@
 ### Hi there 👋
 
 ## About Me :
-I'm Bryan Waweru, a Full Stack Developer from Kenya.
+My name is Bryan Waweru, a Full Stack Developer from Nairobi, Kenya.
 
-- 🔭 I’m a graduate from Moringa school where I was studying Software Engineering where I contributed to frontend and backend for building web applications.
+- 🔭 I am a Software Engineer graduate from Moringa School class of 2023.
+  
+- In the course of my study, I contributed to frontend and backend for building various web applications.
 
-- 🌱 I'm also doing some exploring on Technical Content Writing.
+- 🌱 Currently I am also exploring on Technical Content Writing.
 
 - ⚡ During my free time, I solve problems on Code wars and also read articles based on tech.
 
